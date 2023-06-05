@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShiwangPande
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning tailwind
+- 👀 I’m interested in web development and AIML
+- 🌱 I’m currently learning deep learning.
 - 💞️ I’m looking to collaborate on website development
 - 📫 How to reach me 
   whatsapp No. 8459795840
