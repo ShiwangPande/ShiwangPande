@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://shiwangpandey.vercel.app">Website</a> •
   <a href="https://www.linkedin.com/in/shiwang-pandey/">LinkedIn</a> •
-  <a href="https://twitter.com/Shiwang__Pandey>Twitter</a>
+  <a href="https://twitter.com/Shiwang__Pandey">Twitter</a>
 </p>
 
 I'm a passionate Programmer with a keen interest in Web Technologies. I love building Real World projects and exploring new tools and technologies. Constantly learning and growing in the world of software development is what excites me the most.
