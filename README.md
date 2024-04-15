@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="/style.css">
 
 
-<h1 align="center">👋 Hello, I'm Adarsh Jena!</h1>
+<h1 align="center">👋 Hello, I'm Shiwang Pandey!</h1>
 <p align="center">
   <a href="https://shiwangpandey.vercel.app">Website</a> •
   <a href="https://www.linkedin.com/in/shiwang-pandey/">LinkedIn</a> •
