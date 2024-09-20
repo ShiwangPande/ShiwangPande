@@ -16,7 +16,6 @@ I'm a passionate Programmer with a keen interest in Web Technologies. I love bui
 </a>
 <p></p>
 
-![Banner](banner.png)
 
 ## 🚀 Skills and Tools
 
