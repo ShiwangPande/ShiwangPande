@@ -3,14 +3,14 @@
 
 <h1 align="center">👋 Hello, I'm Shiwang Pandey!</h1>
 <p align="center">
-  <a href="https://shiwangpandey.vercel.app">Website</a> •
+  <a href="https://shiwangpandey.tech">Website</a> •
   <a href="https://www.linkedin.com/in/shiwang-pandey/">LinkedIn</a> •
   <a href="https://twitter.com/Shiwang__Pandey">Twitter</a>
 </p>
 
 I'm a passionate Programmer with a keen interest in Web Technologies. I love building Real World projects and exploring new tools and technologies. Constantly learning and growing in the world of software development is what excites me the most.
 
-<a href="https://shiwangpandey.vercel.app/pdf/Profile.pdf" target="_blank" download>
+<a href="https://drive.google.com/file/d/1W38cjtg4JWRvS9d5JhE0fq5HvfbXz8ob/view?usp=sharing" target="_blank" download>
   <button><img src="download_resume2.gif" width="150" alt="download_button">
 </button>
 </a>
@@ -32,13 +32,10 @@ I'm a passionate Programmer with a keen interest in Web Technologies. I love bui
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img alt="NextJS" src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white">
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </div>
 
 ## 💼 Experience
@@ -51,7 +48,7 @@ I'm a passionate Programmer with a keen interest in Web Technologies. I love bui
 ### 📫 How to reach me
 
 - [Email](mailto:shiwangpande1@gmail.com)
-- [Website](https://shiwangpandey.vercel.app)
+- [Website](https://shiwang.tech)
 - [LinkedIn](https://www.linkedin.com/in/shiwang-pandey/)
 - [Twitter](https://twitter.com/Shiwang__Pandey)
 
@@ -80,6 +77,6 @@ I'm a passionate Programmer with a keen interest in Web Technologies. I love bui
 
 ### 🌐 Check out my portfolio
 
-Visit my [portfolio website](https://shiwangpandey.vercel.app) to see my work and projects.
+Visit my [portfolio website](https://shiwangpandey.tech) to see my work and projects.
 
 
